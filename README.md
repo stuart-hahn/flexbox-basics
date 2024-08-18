@@ -1,6 +1,6 @@
-# Flexbox Project Tutorial
+# Flexbox Basics
 
-Welcome to the Flexbox Project Tutorial repository! This project is designed to help you learn the fundamentals of CSS Flexbox by building a simple, responsive layout. By following along with the tutorial, you'll gain hands-on experience with Flexbox properties and concepts.
+Welcome to the Flexbox Basics repository! This project is designed to help you learn the fundamentals of CSS Flexbox by building a simple, responsive layout. By following along with the tutorial, you'll gain hands-on experience with Flexbox properties and concepts.
 
 ## Table of Contents
 
@@ -39,13 +39,13 @@ To work with this project, you'll need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/flexbox-project-tutorial.git
+   git clone https://github.com/stuart-hahn/flexbox-basics.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd flexbox-project-tutorial
+   cd flexbox-basics
    ```
 
 3. **Open the project in your text editor:**
